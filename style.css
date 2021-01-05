@@ -1,0 +1,81 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size:80px ;
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+.name-color
+{
+    color: #f56f57;
+    
+}
+.header-part
+{
+    width: 40%;
+    margin-left: 7%;
+    padding-left:2%;
+    float: left;
+
+}
+.header-part img{
+    width: 75%;
+    margin-right:7%;
+    padding-right: 2%;
+}
+.spacing
+{
+    padding-bottom: 15px;
+    font-size: 16px;
+}
+.submit
+{  
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#ff6348,#ff7f50);
+    padding:10px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+}
+section{
+    height:300px;
+    padding-bottom: 150px;
+}
+.font-style{
+    font-size: 40px;
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+}
+.card
+{
+    width: 25%;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 20px;
+    height: 350px;
+    box-shadow: 2px 2px 5px #ecf0f1;
+    display: inline-block;
+    float: left;
+    margin-left: 5%;
+
+}
+.image img
+{
+    width: 100%;
+}
+h3
+{
+    text-align: center;
+}
+.third
+{
+    background: #f7f7f7;
+}
+h4
+{
+    color: #363958;   
+}
