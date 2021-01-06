@@ -5,7 +5,7 @@ h1{
     font-size:80px ;
     color: #363958;
     font-family: 'Bebas Neue', cursive;
-    font-weight: 400;
+    font-weight: 500;
     margin-bottom: 0;
 }
 .name-color
@@ -29,19 +29,24 @@ h1{
 .spacing
 {
     padding-bottom: 15px;
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: 400;
 }
 .submit
 {  
     text-decoration: none;
     background-image: linear-gradient(45deg,#ff6348,#ff7f50);
-    padding:10px;
+    padding:15px;
     color: white;
     font-weight: 500;
     border-radius: 5px;
 }
+.material-icon
+{
+ padding: 5px;
+}
 section{
-    height:300px;
+    height:500px;
     padding-bottom: 150px;
 }
 .font-style{
@@ -49,19 +54,24 @@ section{
     color: #363958;
     font-family: 'Bebas Neue', cursive;
 }
+.main 
+{
+    padding-left: 17%;
+}
 .card
 {
     width: 25%;
     background-color: white;
     padding: 5px;
-    border-radius: 5px;
-    margin: 20px;
+    border-radius: 10px;
+    margin: auto;
     height: 350px;
-    box-shadow: 2px 2px 5px #ecf0f1;
+    box-shadow: 2px 2px 40px, rgb(179, 172, 172);
     display: inline-block;
     float: left;
-    margin-left: 5%;
-
+    margin-left: 2%;
+    
+    
 }
 .image img
 {
@@ -73,9 +83,126 @@ h3
 }
 .third
 {
-    background: #f7f7f7;
+    background:#E5E5E5;
 }
 h4
 {
     color: #363958;   
+}
+.fourth
+{
+    width: 100%;
+}
+.styling
+{
+    background-image: url(personal-website-main/shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    
+    width: 906px;
+    height: 225px;
+    margin: 148px 250px;
+    display: inline-block;
+}
+.h5-div
+{
+    width: 70%;
+    float: left;
+    line-height: 69px;
+
+}
+.button
+{
+    width: 30%;
+    float: left;
+    line-height: 225px;
+}
+
+
+h5{
+    font-size: 50px;
+    font-weight: 400;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 38px;
+}
+.inquiry
+{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#ff6348,#ff7f50);
+    padding:10px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    margin-left: 50%;
+    line-height: -50px;
+    
+    
+}
+.five
+{
+    text-align: center;
+    
+    color: #363958; 
+    font-size: 20px;
+}
+#making-bigger
+{
+    font-size: 30px;
+    font-weight: 600;
+    padding: 0%;
+}
+.icon-sizing
+{
+    width: 3%;
+}
+.clients-card
+
+{
+    background-color: azure;
+    width: 30%;
+    height: 450px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10%;
+    float: left;
+    display: inline-block;
+    margin-top: 5%;
+}
+.card-bg
+{
+    background: linear-gradient(to right,#26A69A,#7E57C2);
+    height: 160px;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+.card-image
+{
+    border-radius: 50%;
+    width:120px;
+    height: auto;
+    position: relative;
+    top: 100px;
+    border: 6px solid #26A69A;
+}
+.card-info
+{
+  margin-top: 80px;
+  padding: 10px;
+}
+#design
+{
+    margin-top:10%;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    color: #363958;
+    margin-bottom: 1%;
+
+}
+.extra
+{
+    background-color: #c7ecee;
 }
